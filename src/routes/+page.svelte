@@ -4,7 +4,7 @@
 <main>
   <header class="header">
     <div class="logo">
-      <img src="" alt="Your App Name">
+      <img src="" alt="VoiceBook">
     </div>
     <nav class="navbar">
       <ul>
@@ -18,12 +18,26 @@
 
   <section class="hero">
     <div class="hero-content">
-      <h1>Connect with the World</h1>
-      <p>Join the social media revolution and connect with friends, family, and people from all over the world.</p>
+      <h1>For Seal 40% off</h1>
+      <p>Welcome to our new social media app designed exclusively for Narrators! We are thrilled to introduce our app that is packed with innovative features to help you stay connected with your fellow Narrators.</p>
       <form>
         <input type="email" placeholder="Enter your email">
         <button type="submit" class="btn btn-primary">Sign up</button>
       </form>
+      <div class="store">
+        <div>
+          <h1>Welcome to My App</h1>
+          <p>Download our app on:</p>
+          <div class="app-links">
+            <a href="https://play.google.com/store/apps/details?id=com.yourapp.android" target="_blank">
+              <img src="path/to/google-play-badge.png" alt="Google Play" />
+            </a>
+            <a href="https://itunes.apple.com/app/your-app/id1234567890" target="_blank">
+              <img src="path/to/app-store-badge.png" alt="App Store" />
+            </a>
+          </div>
+        </div>
+      </div>
     </div>
     <div class="hero-image">
       <img src="#" alt="###">
@@ -37,17 +51,17 @@
         <div class="feature-card">
           <img src="" alt="Feature 1">
           <h3>Feature 1</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis augue auctor, varius ligula non, porttitor ex.</p>
+          <p>Our app is not just another social media platform. We have incorporated new and exciting features that have never been seen before on any other social media app. Our app is designed to be user-friendly, with an intuitive user interface that makes it easy to navigate and use.</p>
         </div>
         <div class="feature-card">
           <img src="" alt="Feature 2">
           <h3>Feature 2</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis augue auctor, varius ligula non, porttitor ex.</p>
+          <p>One of the best features of our app is the ability to create and join groups. This feature ensures that you can connect with other Narrators, share ideas, and stay informed about the latest developments in your community. Our app also has a chat feature that allows you to connect with other Narrators in real-time, no matter where you are in the world.</p>
         </div>
         <div class="feature-card">
           <img src="" alt="Feature 3">
           <h3>Feature 3</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis augue auctor, varius ligula non, porttitor ex.</p>
+          <p>Our app also has a newsfeed that is tailored to your interests. You can customize your newsfeed to show content that interests you the most, from news articles to social media posts from other Narrators.</p>
         </div>
       </div>
     </section>
@@ -59,35 +73,23 @@
           <h3>Basic</h3>
           <div class="price">$0</div>
           <ul>
-            <li>Feature 1</li>
-            <li>Feature 2</li>
-            <li>Feature 3</li>
+            <li>Join our community to develop</li>
           </ul>
           <button class="btn btn-primary">Sign up</button>
         </div>
         <div class="pricing-card">
           <h3>Pro</h3>
-          <div class="price">$9.99/mo</div>
+          <div class="price">$5%</div>
           <ul>
-            <li>Feature 1</li>
-            <li>Feature 2</li>
-            <li>Feature 3</li>
-            <li>Feature 4</li>
-            <li>Feature 5</li>
+            <li>Own the project and support the ex owner by 5%</li>
           </ul>
           <button class="btn btn-primary">Sign up</button>
         </div>
         <div class="pricing-card">
           <h3>Premium</h3>
-          <div class="price">$19.99/mo</div>
+          <div class="price">$2500.00/total</div>
           <ul>
-            <li>Feature 1</li>
-            <li>Feature 2</li>
-            <li>Feature 3</li>
-            <li>Feature 4</li>
-            <li>Feature 5</li>
-            <li>Feature 6</li>
-            <li>Feature 7</li>
+            <li>Buy the whole project</li>
           </ul>
           <button class="btn btn-primary">Sign up</button>
         </div>
@@ -98,8 +100,8 @@
       <h2>About Us</h2>
       <div class="about-content">
         <div class="about-text">
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis augue auctor, varius ligula non, porttitor ex. Curabitur non quam id lacus ultrices bibendum. Donec ac quam et nunc accumsan sagittis. Fusce faucibus, orci eu mattis tempus, risus mauris sollicitudin velit, vel porttitor magna ipsum vel nisi.</p>
-          <p>Sed quis augue auctor, varius ligula non, porttitor ex. Curabitur non quam id lacus ultrices bibendum. Donec ac quam et nunc accumsan sagittis. Fusce faucibus, orci eu mattis tempus, risus mauris sollicitudin velit, vel porttitor magna ipsum vel nisi.</p>
+          <p>We are committed to providing the best user experience for our Narrator community, and that's why we are constantly updating and improving our app. Our team is always working on new features and ideas to ensure that our app remains the best social media platform for Narrators.</p>
+          <p>Our app is not yet released, but we are working hard to bring it to you soon. Sign up now to be one of the first to know when our app is available. Don't miss out on the opportunity to join the best social media platform for Narrators. Stay connected, stay informed, and stay ahead of the game with our app.</p>
         </div>
         <div class="about-image">
           <img src="" alt="About Us">
@@ -126,7 +128,7 @@
   <footer class="footer">
     <div class="footer-content">
       <div class="logo">
-        <img src="" alt="Your App Name">
+        <img src="" alt="VoiceBook">
       </div>
       <div class="social-links">
         <a href="#"><i class="fab fa-facebook-f"></i></a>
@@ -135,7 +137,7 @@
       </div>
     </div>
     <div class="footer-disclaimer">
-      <p>&copy; 2023 Your App Name. All rights reserved.</p>
+      <p>&copy; 2023 VoiceBook. All rights reserved.</p>
     </div>
   </footer>
 </main>
@@ -224,6 +226,12 @@
     }
     .hero img {
       width: 100%;
+    }
+    .store{
+      display: flex;
+      width: 100%;
+      padding: 10px;
+      justify-content: space-evenly;
     }
     .body-section{
       padding: 0 46px 0 46px;
